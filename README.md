@@ -1,4 +1,4 @@
-![Logo] (https://www.setecu.com/images/sampledata/icetheme/logo.png)
+![Alt text](https://www.setecu.com/images/sampledata/icetheme/logo.png)
 
 # Final_Setec
 ## For_Users
