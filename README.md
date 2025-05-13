@@ -7,7 +7,7 @@ Our Website is Cafe Shop Management, This Website have prodruction for users and
 🌐 LinkUrl for User
 
 ```bash
-hhhhhh
+https://final-setec-vuqo-git-main-va-erics-projects.vercel.app/src/index.html
 ```
 
 ## For_Admin_Page
@@ -21,7 +21,7 @@ passWord : hengheng168
 🌐LinkUrl for Admin
 
 ```bash
-
+https://final-setec-vuqo-git-main-va-erics-projects.vercel.app/src/page/admin-login.html
 ```
 
 ## Our Instructor : Mrr Choeurn PinChhai
