@@ -41,4 +41,5 @@ https://final-setec-vuqo-git-main-va-erics-projects.vercel.app/src/page/admin-lo
 
 ##For run this project please open terminal and write this command :
 ```bash 
-npm run dev ```
+npm run dev
+```
